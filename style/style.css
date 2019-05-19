@@ -1,0 +1,19 @@
+body{
+    background-color: #232323;
+}
+.square{
+    width:30%;
+    background: blueviolet;
+    padding-bottom: 30%;
+    float:left;
+    margin:1.66%;
+}
+.container{
+    max-width: 500px;
+    margin: 0 auto;
+}
+h1,span{
+    color:#fff;
+    text-align: center;
+}
+
